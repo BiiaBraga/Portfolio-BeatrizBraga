@@ -106,24 +106,28 @@
       {
         "name": "Yummy - Sistema de Delivery de Comida",
         "url": "https://github.com/BiiaBraga/Yummy",
+        "image": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/assets/img/yummy.png",
         "github": true,
         "medium": false
       },
       {
         "name": "Momoduo - Jogo cooperativo de plataforma",
         "url": "https://github.com/BiiaBraga/Momoduo",
+        "image": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/assets/img/momoduo.png",
         "github": true,
         "medium": false
       },
       {
         "name": "Talksy — Chat JMS com ActiveMQ",
         "url": "https://github.com/BiiaBraga/Talksy",
+        "image": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/assets/img/talksy.png",
         "github": true,
         "medium": false
       },
       {
         "name": "Chromatic - Mini photoshop",
         "url": "https://github.com/BiiaBraga/Chromatic",
+        "image": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/assets/img/chromatic.png",
         "github": true,
         "medium": false
       }
