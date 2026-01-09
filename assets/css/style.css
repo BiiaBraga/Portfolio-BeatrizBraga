@@ -7,16 +7,16 @@ body{
     background-size: cover;
     background-position: 15% 45%;
     height: 100vh;
-    color: #fff;
+    color: #000000;
     padding: .75rem;
 }
 main{
     padding: 1rem;
     margin-bottom: .75rem;
-    border: solid  #ffffff5b 2px;
+    border: solid  rgb(242, 238, 243) 2px;
     border-radius: 10px;
     position: relative;
-    background-color: black;
+    background-color: rgb(242, 238, 243);
     opacity: 0.8;
     z-index: auto;
 }
@@ -28,7 +28,7 @@ header{
 }
 a{
     text-decoration: none;
-    color: #fff;
+    color: #000000;
 }
 .fotoPerfil{
     height: 200px;

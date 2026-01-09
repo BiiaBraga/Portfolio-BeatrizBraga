@@ -32,6 +32,6 @@
     margin-right: 0.5rem;
 }
 .portifolio li a:hover{
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
