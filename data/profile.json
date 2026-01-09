@@ -42,29 +42,14 @@
         "name":"Git Hub",
         "url": "https://github.com/BiiaBraga",
         "icon": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/gitHub2.svg"
-      },
-      {
-        "name":"Docker Hub",
-        "url": "https://hub.docker.com/u/BiiaBraga",
-        "icon": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/docker2.svg"
       }
     ],
-    "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",
+    "goal":"Meu grande objetivo é iniciar e consolidar minha atuação profissional em tecnologia, colocando em prática minha formação em Ciência da Computação, com foco no aprendizado contínuo em desenvolvimento Full Stack e Ciência de Dados. Busco evoluir tecnicamente de forma consistente, aprofundando meus conhecimentos em programação, estruturas de dados, análise de dados e desenvolvimento de sistemas, e contribuir com responsabilidade, proatividade e capacidade de aprendizado para o desenvolvimento de soluções eficientes, bem estruturadas e relevantes.",
     "education":[
       {
         "name":"Bacharelado - Ciência da Computação",
-        "period":"Fev 2024 - Fev 2028",
-        "institution":"Universidade Cruzeiro do Sul"
-      },
-      {
-        "name":"Superior - Ciência de dados",
-        "period":"Jan 2022 - Dez 2023",
-        "institution":"Universidade Cruzeiro do Sul"
-      },
-      {
-        "name":"Superior - Análise e desenvolvimento de sistemas",
-        "period":"Fev 2019 - Fev 2021",
-        "institution":"Universidade Cruzeiro do Sul"
+        "period":"Out 2021 - atual",
+        "institution":"Universidade Federal do Mato Grosso (UFMT)"
       }
     ],
     "skills": {
@@ -74,7 +59,7 @@
           "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/node.svg"
         },
         {
-          "name": "Csharp",
+          "name": "C",
           "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/csharp.svg"
         },
         {
@@ -90,8 +75,8 @@
           "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/python.svg"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/postgreSQL.svg"
+          "name": "MySQL",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/mysql.svg"
         },
         {
           "name": "Typescript",
@@ -104,11 +89,12 @@
         
       ],
       "softSkills": [
-        "Atendimento ao cliente e acompanhamento de chamados",
-        "Trabalho em equipe com uso de Slack ou Discord, reuniões via Meet",
-        "Organização e amplo conhecimento em metodologias ageis",
-        "Empatica com colegas e clientes",
-        "Flexibilidade"
+        "Trabalho em equipe utilizando ferramentas colaborativas como Discord, Meet e Teams",
+        "Organização e aplicação de práticas de metodologias ágeis",
+        "Boa comunicação em atividades em grupo e no contato com clientes",
+        "Criatividade voltada à resolução de problemas",
+        "Proatividade aliada à capacidade de aprendizado contínuo",
+        "Liderança e iniciativa no desenvolvimento de atividades"
       ]
     },
     "languages": [
