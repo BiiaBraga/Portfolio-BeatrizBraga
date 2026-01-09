@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beatriz Braga - Curriculum</title>
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" 
+    integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon"
+    href="./data/img/pandemic.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/acordeon.css">
+    <link rel="stylesheet" href="./assets/css/linguages.css">
+    <link rel="stylesheet" href="./assets/css/portfolio.css">
+    <link rel="stylesheet" href="./assets/css/experience.css">
+    <link rel="stylesheet" href="./assets/css/skills.css">
+    <link rel="stylesheet" href="./assets/css/education.css">
+    <link rel="stylesheet" href="./assets/css/social.css">
+    <link rel="stylesheet" href="./assets/css/goal.css">
+</head>
+<body>
+    <main>
+        <header>
+            <img class="fotoPerfil " id="profile.photo" src="./assets/img/perfil.png" alt="foto de perfil">
+            <div class="descricao">
+                <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00BFBF&width=315&height=75&lines=Olá+meu+nome+é+;João+Marcelo;Junior+Develop;Data+Scientist" alt="Typing SVG" /></a>
+                <div class="contato"> 
+                    <div>
+                        <ul class="social" id="profile.info">
+                        </ul>
+                    </div>
+                    <div>
+                    <ul class="social" id="profile.social">
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Objetivo</h2>
+            </button>
+
+            <div class="content">
+                <p class="goal" id="profile.goal">
+                </p>
+            </div>
+        </section>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Formação Acadêmica</h2>
+            </button>
+            
+            <div class="content">
+                <ul class="education" id="profile.education">
+                </ul>
+            </div>
+        </section>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Experiência profissional</h2>
+            </button>
+
+            <div class="content">
+                <ul class="experience" id="profile.professionalExperience">
+                </ul>
+            </div>
+        </section>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Skills</h2>
+            </button>
+
+            <div class="content">
+                <div class="skills">
+                    <section class="tools">
+                        <h3>Hard-skills</h3>
+                        <ul id="profile.skills.hardSkills">
+                        </ul>
+                    </section>
+                    <section class="personal">
+                        <h3>Soft-skills</h3>
+                        <ul id="profile.skills.softSkills">
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </section>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Portfólio</h2>
+            </button>
+            <div class="content">
+                <ul class="portifolio" id="profile.portfolio">
+                </ul>
+            </div>
+        </section>
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Idiomas</h2>
+            </button>
+
+            <div class="content">
+                <ul class="linguages" id="profile.languages">
+                </ul>
+            </div>
+        </section>
+    </main>
+    <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

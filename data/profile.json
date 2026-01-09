@@ -1,0 +1,167 @@
+{
+    "name": "João Marcelo",
+    "photo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/assets/img/perfil.png",
+    "job": "Junior Developer / Data Scientist",
+    "location": "São Paulo - SP",
+    "phone": "(11) 95316-5354",
+    "email": "beatrizbragadev@gmail.com",
+    "info":[
+      {
+        "name":"Junior Developer / Data Scientist",
+        "url":"#",
+        "icon":"https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/perfil.svg",
+        "link":false
+
+      },
+      {
+        "name":"São Paulo - SP",
+        "url":"#",
+        "icon":"https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/localizacao.svg",
+        "link":false
+      },
+      {
+        "name":"(11) 95316-5354",
+        "url":"href='tel: (11) 95316-5354'",
+        "icon":"https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/numero.svg",
+        "link":true
+      },
+      {
+        "name":"beatrizbragadev@gmail.com",
+        "url":"href='mailto: beatrizbragadev@gmail.com'",
+        "icon":"https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/email.svg",
+        "link":true
+      }
+    ],
+    "social":[
+      {
+        "name":"Linkedin",
+        "url": "https://www.linkedin.com/in/beatriz-braga-0b735a204/",
+        "icon": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/linkedin.svg"
+      },
+      {
+        "name":"Git Hub",
+        "url": "https://github.com/BiiaBraga",
+        "icon": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/gitHub2.svg"
+      },
+      {
+        "name":"Docker Hub",
+        "url": "https://hub.docker.com/u/BiiaBraga",
+        "icon": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/docker2.svg"
+      }
+    ],
+    "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",
+    "education":[
+      {
+        "name":"Bacharelado - Ciência da Computação",
+        "period":"Fev 2024 - Fev 2028",
+        "institution":"Universidade Cruzeiro do Sul"
+      },
+      {
+        "name":"Superior - Ciência de dados",
+        "period":"Jan 2022 - Dez 2023",
+        "institution":"Universidade Cruzeiro do Sul"
+      },
+      {
+        "name":"Superior - Análise e desenvolvimento de sistemas",
+        "period":"Fev 2019 - Fev 2021",
+        "institution":"Universidade Cruzeiro do Sul"
+      }
+    ],
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/node.svg"
+        },
+        {
+          "name": "Csharp",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/csharp.svg"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/react.svg"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/git.svg"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/python.svg"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/postgreSQL.svg"
+        },
+        {
+          "name": "Typescript",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/ts.svg"
+        },
+        {
+          "name": "DataScience",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/dataScience.png"
+        }
+        
+      ],
+      "softSkills": [
+        "Atendimento ao cliente e acompanhamento de chamados",
+        "Trabalho em equipe com uso de Slack ou Discord, reuniões via Meet",
+        "Organização e amplo conhecimento em metodologias ageis",
+        "Empatica com colegas e clientes",
+        "Flexibilidade"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (B2 - Intermediário Avançado)", 
+      "Espanhol (A1 - Básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Yummy - Sistema de Delivery de Comida",
+        "url": "https://github.com/BiiaBraga/Yummy",
+        "github": true,
+        "medium": false
+      },
+      {
+        "name": "Momoduo - Jogo cooperativo de plataforma",
+        "url": "https://github.com/BiiaBraga/Momoduo",
+        "github": true,
+        "medium": false
+      },
+      {
+        "name": "Talksy — Chat JMS com ActiveMQ",
+        "url": "https://github.com/BiiaBraga/Talksy",
+        "github": true,
+        "medium": false
+      },
+      {
+        "name": "Chromatic - Mini photoshop",
+        "url": "https://github.com/BiiaBraga/Chromatic",
+        "github": true,
+        "medium": false
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Professora - Projeto de Extensão Curso de informática básica da UFMT,  MT",
+        "period": "• Abr 2024 - Set 2025",
+        "description": "Participei de um projeto de extensão como professora em um curso de informática básica, voltado tanto para o público em geral quanto para jovens em cumprimento de medidas socioeducativas. Fui responsável pela criação de slides e apostilas, além da ministração das aulas, que abordaram conteúdos como digitação, uso do sistema operacional Windows, e noções práticas de Word e Excel. Essa experiência também contribuiu significativamente para o desenvolvimento da minha comunicação e didática, especialmente ao lidar com diferentes públicos."
+      },
+      {
+        "name": "Participante e líder do grupo - Hackathon edição Água Boa,  MT",
+        "period": " Out 2024  Out 2024",
+        "description": "Fui líder de equipe no HackaMT Água Boa, onde conquistamos o 2º lugar com uma solução inovadora para a organização de almoxarifados. Essa experiência foi fundamental para desenvolver minhas habilidades de liderança, além de fortalecer minha capacidade de trabalho em equipe, resolução de problemas e criação de soluções eficientes sob pressão."
+      },
+      {
+        "name": "Co-fundadora - Startup Renda Verde, MT",
+        "period": "Nov 2023 - Dez 2024",
+        "description": "Co-fundadora de uma startup dedicada a abordar a escassez de biomassa no Mato Grosso. Responsável pela organização de agendas, participação em reuniões, elaboração de apresentações, condução de entrevistas e pesquisa de mercado."
+      },
+      {
+        "name": "Analista comercial - Uptime Comunicaçào em inglês, SP",
+        "period": "Jan 2021 - Set 2021",
+        "description": "Experiência com suporte a equipe, promoção de ações de relacionamento com os clientes, agendamento de visitas e realização de atividades de organização e controle de documentos, cadastro, elaboração de relatórios, digitação e tabulação de dados."
+      }
+    ]
+  }

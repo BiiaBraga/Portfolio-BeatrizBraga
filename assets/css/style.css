@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url('https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/finily.gif');
+    background-size: cover;
+    background-position: 15% 45%;
+    height: 100vh;
+    color: #fff;
+    padding: .75rem;
+}
+main{
+    padding: 1rem;
+    margin-bottom: .75rem;
+    border: solid  #ffffff5b 2px;
+    border-radius: 10px;
+    position: relative;
+    background-color: black;
+    opacity: 0.8;
+    z-index: auto;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.fotoPerfil{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 50%;
+    z-index: 1;
+}
+h1{
+    text-align: center;
+}
+.contato{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+.contato p{
+    font-size: 1rem;
+    margin: .5rem;
+}
+.contato img{
+    height: 1rem;
+    width: 1rem;
+    margin-left: 0.5rem;
+}
+.centralizando {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (min-width: 768px){
+    header{
+        flex-direction: row;
+        margin: auto;
+    }
+    .descricao{
+        margin-right: 100px;
+    }
+    .contato{
+        display: flex;
+        flex-direction: row;
+    }
+}
+@media only screen and (min-width: 1025px){
+    header{
+        width: 800px;
+        padding-bottom: 2rem;
+    }
+    .descricao{
+        margin-right: 100px;
+    }
+    h1{
+        text-align: start;
+    }
+    
+}
+@media only screen and (min-width: 1277px){
+    main{
+        width: 65vw;
+        margin: auto;
+    }
+}
