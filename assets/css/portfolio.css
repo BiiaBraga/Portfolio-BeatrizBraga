@@ -35,3 +35,11 @@
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+.portifolio li img.portfolio-image {
+    width: 100%;
+    max-width: 420px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 0.75rem 0 1rem 0;
+}

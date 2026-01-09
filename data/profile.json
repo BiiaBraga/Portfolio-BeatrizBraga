@@ -60,7 +60,7 @@
         },
         {
           "name": "C",
-          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/csharp.svg"
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/c.png"
         },
         {
           "name": "React",
@@ -76,7 +76,7 @@
         },
         {
           "name": "MySQL",
-          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/mysql.svg"
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/mysql.png"
         },
         {
           "name": "Typescript",
@@ -85,6 +85,22 @@
         {
           "name": "DataScience",
           "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/dataScience.png"
+        },
+        {
+          "name": "C++",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/C++.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/html.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/css.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/BiiaBraga/Portfolio-BeatrizBraga/main/data/img/js.svg"
         }
         
       ],
